@@ -20,7 +20,7 @@ http://www.cburch.com/logisim/docs/2.7/en/html/guide/tutorial/index.html
 
 #### Here you can see the Truth table of display circuit, that I used to make the circuit:
 
-| D | C | B | A |   | a | b | c | d | e | f | g |
+| A | B | C | D |   | a | b | c | d | e | f | g |
 |:-:|:-:|:-:|:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 0 | 0 | 0 | 0 |   | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
 | 0 | 0 | 0 | 1 |   | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
